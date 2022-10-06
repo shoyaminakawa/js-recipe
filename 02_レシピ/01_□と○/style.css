@@ -1,0 +1,14 @@
+/*変化するプロパティの設定に応じた動きを時間をかけて滑らかに変化できる*/
+.transition {
+  transition: all 1s;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.rounded {
+  border-radius: 50px;
+}

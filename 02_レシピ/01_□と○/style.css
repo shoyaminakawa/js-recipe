@@ -12,3 +12,15 @@
 .rounded {
   border-radius: 50px;
 }
+
+/*発展★★*/
+.triangle {
+  width: 0px;
+  height: 0px;
+
+  border-top: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 50px solid black;
+  border-left: 50px solid transparent;
+}
+/*borderプロパティで三角形を作成してみた*/
